@@ -12,7 +12,7 @@ const Content = () => {
       <ContentContainer>
         <CardContainer>
           <CardInformation
-            titulo="Biossegurança aplicada a radiologia"
+            titulo="Teste 1"
             informacoes="Esta página explica como a biossegurança é aplicad na radiologia"
             autor="Akemi Yagui"
           />
